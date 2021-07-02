@@ -1,0 +1,14 @@
+com/example/recipe/NonNull.java
+ com.example.recipe.NonNull
+com/example/recipe/RecipeActivity.java
+ com.example.recipe.RecipeActivity
+com/example/recipe/RecyclerViewAdapter.java
+ com.example.recipe.RecyclerViewAdapter
+ com.example.recipe.RecyclerViewAdapter$1
+ com.example.recipe.RecyclerViewAdapter$MyHolder
+com/example/recipe/Recipes.java
+ com.example.recipe.Recipes
+com/example/recipe/BuildConfig.java
+ com.example.recipe.BuildConfig
+com/example/recipe/MainActivity.java
+ com.example.recipe.MainActivity
